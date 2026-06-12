@@ -1,7 +1,9 @@
 # CodeAlpha_HangmanGame
 🎮 Hangman Game
+
 📌 Project Overview
 Hangman Game is a fun and interactive console-based word guessing game developed using Python. Players must guess the hidden word one letter at a time before running out of attempts. The game provides an engaging experience while improving vocabulary and logical thinking skills.
+
 ✨ Features
 🎯 Multiple Word Categories
 🎲 Random Word Selection
@@ -17,6 +19,7 @@ Random Module
 Functions
 Loops & Conditional Statements
 Lists, Dictionaries, and Strings
+
 📚 Learning Outcomes
 Through this project, I improved my understanding of:
 Python Programming Fundamentals
