@@ -28,5 +28,6 @@ Game Logic Development
 User Input Handling
 Data Structures in Python
 Functions and Modular Programming
+
 🎯 Project Objective
 The main objective of this project is to develop an interactive word guessing game that strengthens programming concepts such as loops, conditions, functions, and data structures while providing an enjoyable gaming experience.
